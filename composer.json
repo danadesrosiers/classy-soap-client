@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-0": {
-            "DDesrosiers\\ClassSoapClient\\": "src/"
+            "DDesrosiers\\ClassySoapClient\\": "src/"
         }
     },
     "minimum-stability": "stable"
